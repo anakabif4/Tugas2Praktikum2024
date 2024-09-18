@@ -25,4 +25,4 @@ Shift Baru: E
 ## Screenshot
 Contoh :
 ![Lampiran Form](formnya.png)
-![Lampiran Hasil](hasilnya.png)
+![Lampiran Hasil](Hasilnya.png)
